@@ -1,0 +1,60 @@
+docker network create cassandra-net
+docker run --name cassandra1 -p 9042:9042 --network cassandra-net -d cassandra
+docker exec -it cassandra1 cqlsh
+
+Comandos do trabalho:
+
+CREATE KEYSPACE temperaturas WITH replication = {'class' : 'SimpleStrategy', 'replication_factor' : 1};
+
+Testes:
+
+CREATE KEYSPACE timeserie WITH replication = {'class' : 'SimpleStrategy', 'replication_factor' : 1};
+
+CREATE TABLE timeserie.regions (regiao text, day text, ts timestamp, value double, PRIMARY KEY ((regiao), value)) WITH CLUSTERING ORDER BY (value asc);
+
+
+testes 10k:
+
+INSERÇÃO: 7.44s
+BUSCA: instantâneo
+DELEÇÃO: instantâneo 3ms
+ALTERAÇÃO: 3s
+
+testes 100k:
+
+INSERÇÃO: 45.09s
+BUSCA: instantâneo
+DELEÇÃO: instantâneo <3ms
+ALTERAÇÃO: 3s
+
+
+CREATE TABLE temperaturas.temperaturas_por_cidade (regiao text, estado text, cidade text, ano int, data timestamp, valor double, PRIMARY KEY ((cidade, ano), data)) WITH CLUSTERING ORDER BY (data asc);
+
+select * from temperaturas.temperaturas_por_cidade;
+
+select * from temperaturas.temperaturas_por_cidade where cidade = 'natal' and ano = 2020;
+select * from temperaturas.temperaturas_por_cidade where cidade = 'pelotas' and ano = 2021;
+
+select * from temperaturas.temperaturas_por_estado where estado = 'acre' and ano = 2020;
+
+select * from temperaturas.temperaturas_por_regiao where regiao = 'nordeste' and ano = 2020;
+
+
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2020, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2020, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2020, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2020, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2020, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2020, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2020, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2020, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2020, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2020, '2020-02-06 04:00:00', 24.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','porto alegre', 2020, '2020-02-01 00:00:00', 12.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','pelotas', 2021, '2020-02-01 01:00:00', 12.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','porto alegre', 2020, '2020-02-01 02:00:00', 11.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','pelotas', 2021, '2020-02-01 03:00:00', 13.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','santa maria', '2020', '2020-02-01 04:00:00', 14.07);

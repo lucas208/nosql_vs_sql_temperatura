@@ -1,0 +1,359 @@
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2019, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2019, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2019, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2019, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2019, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2020, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2020, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2020, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2020, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2020, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2021, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2021, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2021, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2021, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','natal', 2021, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2020, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2020, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2020, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2020, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2020, '2020-02-06 04:00:00', 24.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2021, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2021, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2021, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2021, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2021, '2020-02-06 04:00:00', 24.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2019, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2019, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2019, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2019, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'rio grande do norte','mossoró', 2019, '2020-02-06 04:00:00', 24.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','recife', 2019, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','recife', 2019, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','recife', 2019, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','recife', 2019, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','recife', 2019, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','recife', 2020, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','recife', 2020, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','recife', 2020, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','recife', 2020, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','recife', 2020, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','recife', 2021, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','recife', 2021, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','recife', 2021, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','recife', 2021, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','recife', 2021, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','caruaru', 2020, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','caruaru', 2020, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','caruaru', 2020, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','caruaru', 2020, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','caruaru', 2020, '2020-02-06 04:00:00', 24.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','caruaru', 2021, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','caruaru', 2021, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','caruaru', 2021, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','caruaru', 2021, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','caruaru', 2021, '2020-02-06 04:00:00', 24.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','caruaru', 2019, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','caruaru', 2019, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','caruaru', 2019, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','caruaru', 2019, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('nordeste', 'pernambuco','caruaru', 2019, '2020-02-06 04:00:00', 24.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','porto alegre', 2020, '2020-02-01 19:00:00', 12.5);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','porto alegre', 2020, '2020-02-01 12:00:00', 12.6);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','porto alegre', 2020, '2020-02-01 15:00:00', 12.7);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','porto alegre', 2020, '2020-02-01 23:00:00', 12.8);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','porto alegre', 2020, '2020-02-01 02:00:00', 11.3);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','porto alegre', 2021, '2020-02-01 19:00:00', 12.5);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','porto alegre', 2021, '2020-02-01 12:00:00', 12.6);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','porto alegre', 2021, '2020-02-01 15:00:00', 12.7);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','porto alegre', 2021, '2020-02-01 23:00:00', 12.8);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','porto alegre', 2021, '2020-02-01 02:00:00', 11.3);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','porto alegre', 2019, '2020-02-01 19:00:00', 12.5);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','porto alegre', 2019, '2020-02-01 12:00:00', 12.6);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','porto alegre', 2019, '2020-02-01 15:00:00', 12.7);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','porto alegre', 2019, '2020-02-01 23:00:00', 12.8);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','porto alegre', 2019, '2020-02-01 02:00:00', 11.3);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','santa maria', 2020, '2020-02-01 04:00:00', 14.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','santa maria', 2020, '2020-02-01 06:00:00', 12.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','santa maria', 2020, '2020-02-01 07:00:00', 13.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','santa maria', 2020, '2020-02-01 17:00:00', 15.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','santa maria', 2020, '2020-02-01 15:00:00', 10.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','santa maria', 2017, '2020-02-01 04:00:00', 14.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','santa maria', 2017, '2020-02-01 06:00:00', 12.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','santa maria', 2017, '2020-02-01 07:00:00', 13.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','santa maria', 2017, '2020-02-01 17:00:00', 15.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','santa maria', 2017, '2020-02-01 15:00:00', 10.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','santa maria', 2015, '2020-02-01 04:00:00', 14.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','santa maria', 2015, '2020-02-01 06:00:00', 12.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','santa maria', 2015, '2020-02-01 07:00:00', 13.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','santa maria', 2015, '2020-02-01 17:00:00', 15.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'rio grande do sul','santa maria', 2015, '2020-02-01 15:00:00', 10.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','curitiba', 2020, '2020-02-01 19:00:00', 12.5);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','curitiba', 2020, '2020-02-01 12:00:00', 12.6);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','curitiba', 2020, '2020-02-01 15:00:00', 12.7);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','curitiba', 2020, '2020-02-01 23:00:00', 12.8);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','curitiba', 2020, '2020-02-01 02:00:00', 11.3);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','curitiba', 2021, '2020-02-01 19:00:00', 12.5);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','curitiba', 2021, '2020-02-01 12:00:00', 12.6);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','curitiba', 2021, '2020-02-01 15:00:00', 12.7);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','curitiba', 2021, '2020-02-01 23:00:00', 12.8);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','curitiba', 2021, '2020-02-01 02:00:00', 11.3);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','curitiba', 2019, '2020-02-01 19:00:00', 12.5);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','curitiba', 2019, '2020-02-01 12:00:00', 12.6);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','curitiba', 2019, '2020-02-01 15:00:00', 12.7);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','curitiba', 2019, '2020-02-01 23:00:00', 12.8);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','curitiba', 2019, '2020-02-01 02:00:00', 11.3);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','londrina', 2020, '2020-02-01 04:00:00', 14.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','londrina', 2020, '2020-02-01 06:00:00', 12.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','londrina', 2020, '2020-02-01 07:00:00', 13.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','londrina', 2020, '2020-02-01 17:00:00', 15.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','londrina', 2020, '2020-02-01 15:00:00', 10.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','londrina', 2017, '2020-02-01 04:00:00', 14.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','londrina', 2017, '2020-02-01 06:00:00', 12.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','londrina', 2017, '2020-02-01 07:00:00', 13.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','londrina', 2017, '2020-02-01 17:00:00', 15.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','londrina', 2017, '2020-02-01 15:00:00', 10.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','londrina', 2015, '2020-02-01 04:00:00', 14.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','londrina', 2015, '2020-02-01 06:00:00', 12.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','londrina', 2015, '2020-02-01 07:00:00', 13.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','londrina', 2015, '2020-02-01 17:00:00', 15.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sul', 'paraná','londrina', 2015, '2020-02-01 15:00:00', 10.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','petrópolis', 2020, '2020-02-01 19:00:00', 12.5);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','petrópolis', 2020, '2020-02-01 12:00:00', 12.6);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','petrópolis', 2020, '2020-02-01 15:00:00', 12.7);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','petrópolis', 2020, '2020-02-01 23:00:00', 12.8);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','petrópolis', 2020, '2020-02-01 02:00:00', 11.3);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','petrópolis', 2021, '2020-02-01 19:00:00', 12.5);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','petrópolis', 2021, '2020-02-01 12:00:00', 12.6);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','petrópolis', 2021, '2020-02-01 15:00:00', 12.7);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','petrópolis', 2021, '2020-02-01 23:00:00', 12.8);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','petrópolis', 2021, '2020-02-01 02:00:00', 11.3);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','petrópolis', 2019, '2020-02-01 19:00:00', 12.5);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','petrópolis', 2019, '2020-02-01 12:00:00', 12.6);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','petrópolis', 2019, '2020-02-01 15:00:00', 12.7);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','petrópolis', 2019, '2020-02-01 23:00:00', 12.8);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','petrópolis', 2019, '2020-02-01 02:00:00', 11.3);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','niterói', 2020, '2020-02-01 04:00:00', 14.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','niterói', 2020, '2020-02-01 06:00:00', 12.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','niterói', 2020, '2020-02-01 07:00:00', 13.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','niterói', 2020, '2020-02-01 17:00:00', 15.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','niterói', 2020, '2020-02-01 15:00:00', 10.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','niterói', 2017, '2020-02-01 04:00:00', 14.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','niterói', 2017, '2020-02-01 06:00:00', 12.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','niterói', 2017, '2020-02-01 07:00:00', 13.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','niterói', 2017, '2020-02-01 17:00:00', 15.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','niterói', 2017, '2020-02-01 15:00:00', 10.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','niterói', 2015, '2020-02-01 04:00:00', 14.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','niterói', 2015, '2020-02-01 06:00:00', 12.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','niterói', 2015, '2020-02-01 07:00:00', 13.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','niterói', 2015, '2020-02-01 17:00:00', 15.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'rio de janeiro','niterói', 2015, '2020-02-01 15:00:00', 10.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','guaratinguetá', 2020, '2020-02-01 19:00:00', 12.5);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','guaratinguetá', 2020, '2020-02-01 12:00:00', 12.6);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','guaratinguetá', 2020, '2020-02-01 15:00:00', 12.7);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','guaratinguetá', 2020, '2020-02-01 23:00:00', 12.8);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','guaratinguetá', 2020, '2020-02-01 02:00:00', 11.3);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','guaratinguetá', 2021, '2020-02-01 19:00:00', 12.5);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','guaratinguetá', 2021, '2020-02-01 12:00:00', 12.6);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','guaratinguetá', 2021, '2020-02-01 15:00:00', 12.7);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','guaratinguetá', 2021, '2020-02-01 23:00:00', 12.8);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','guaratinguetá', 2021, '2020-02-01 02:00:00', 11.3);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','guaratinguetá', 2019, '2020-02-01 19:00:00', 12.5);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','guaratinguetá', 2019, '2020-02-01 12:00:00', 12.6);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','guaratinguetá', 2019, '2020-02-01 15:00:00', 12.7);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','guaratinguetá', 2019, '2020-02-01 23:00:00', 12.8);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','guaratinguetá', 2019, '2020-02-01 02:00:00', 11.3);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','campos do jordão', 2020, '2020-02-01 04:00:00', 14.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','campos do jordão', 2020, '2020-02-01 06:00:00', 12.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','campos do jordão', 2020, '2020-02-01 07:00:00', 13.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','campos do jordão', 2020, '2020-02-01 17:00:00', 15.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','campos do jordão', 2020, '2020-02-01 15:00:00', 10.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','campos do jordão', 2017, '2020-02-01 04:00:00', 14.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','campos do jordão', 2017, '2020-02-01 06:00:00', 12.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','campos do jordão', 2017, '2020-02-01 07:00:00', 13.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','campos do jordão', 2017, '2020-02-01 17:00:00', 15.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','campos do jordão', 2017, '2020-02-01 15:00:00', 10.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','campos do jordão', 2015, '2020-02-01 04:00:00', 14.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','campos do jordão', 2015, '2020-02-01 06:00:00', 12.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','campos do jordão', 2015, '2020-02-01 07:00:00', 13.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','campos do jordão', 2015, '2020-02-01 17:00:00', 15.07);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('sudeste', 'são paulo','campos do jordão', 2015, '2020-02-01 15:00:00', 10.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','manaus', 2019, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','manaus', 2019, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','manaus', 2019, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','manaus', 2019, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','manaus', 2019, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','manaus', 2020, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','manaus', 2020, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','manaus', 2020, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','manaus', 2020, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','manaus', 2020, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','manaus', 2021, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','manaus', 2021, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','manaus', 2021, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','manaus', 2021, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','manaus', 2021, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','parintins', 2020, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','parintins', 2020, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','parintins', 2020, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','parintins', 2020, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','parintins', 2020, '2020-02-06 04:00:00', 24.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','parintins', 2021, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','parintins', 2021, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','parintins', 2021, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','parintins', 2021, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','parintins', 2021, '2020-02-06 04:00:00', 24.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','parintins', 2019, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','parintins', 2019, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','parintins', 2019, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','parintins', 2019, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'amazonas','parintins', 2019, '2020-02-06 04:00:00', 24.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','rio branco', 2019, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','rio branco', 2019, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','rio branco', 2019, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','rio branco', 2019, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','rio branco', 2019, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','rio branco', 2020, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','rio branco', 2020, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','rio branco', 2020, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','rio branco', 2020, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','rio branco', 2020, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','rio branco', 2021, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','rio branco', 2021, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','rio branco', 2021, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','rio branco', 2021, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','rio branco', 2021, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','xapuri', 2020, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','xapuri', 2020, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','xapuri', 2020, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','xapuri', 2020, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','xapuri', 2020, '2020-02-06 04:00:00', 24.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','xapuri', 2021, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','xapuri', 2021, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','xapuri', 2021, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','xapuri', 2021, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','xapuri', 2021, '2020-02-06 04:00:00', 24.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','xapuri', 2019, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','xapuri', 2019, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','xapuri', 2019, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','xapuri', 2019, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('norte', 'acre','xapuri', 2019, '2020-02-06 04:00:00', 24.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'distrito federal','brasília', 2019, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'distrito federal','brasília', 2019, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'distrito federal','brasília', 2019, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'distrito federal','brasília', 2019, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'distrito federal','brasília', 2019, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'distrito federal','brasília', 2020, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'distrito federal','brasília', 2020, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'distrito federal','brasília', 2020, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'distrito federal','brasília', 2020, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'distrito federal','brasília', 2020, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'distrito federal','brasília', 2021, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'distrito federal','brasília', 2021, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'distrito federal','brasília', 2021, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'distrito federal','brasília', 2021, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'distrito federal','brasília', 2021, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'goiás','goiânia', 2020, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'goiás','goiânia', 2020, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'goiás','goiânia', 2020, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'goiás','goiânia', 2020, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'goiás','goiânia', 2020, '2020-02-06 04:00:00', 24.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'goiás','goiânia', 2021, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'goiás','goiânia', 2021, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'goiás','goiânia', 2021, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'goiás','goiânia', 2021, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'goiás','goiânia', 2021, '2020-02-06 04:00:00', 24.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'goiás','goiânia', 2019, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'goiás','goiânia', 2019, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'goiás','goiânia', 2019, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'goiás','goiânia', 2019, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'goiás','goiânia', 2019, '2020-02-06 04:00:00', 24.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','cuiabá', 2019, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','cuiabá', 2019, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','cuiabá', 2019, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','cuiabá', 2019, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','cuiabá', 2019, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','cuiabá', 2020, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','cuiabá', 2020, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','cuiabá', 2020, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','cuiabá', 2020, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','cuiabá', 2020, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','cuiabá', 2021, '2020-02-01 00:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','cuiabá', 2021, '2020-02-01 01:00:00', 22.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','cuiabá', 2021, '2020-02-01 02:00:00', 22.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','cuiabá', 2021, '2020-02-01 03:00:00', 22.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','cuiabá', 2021, '2020-02-01 04:00:00', 23.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','rondonópolis', 2020, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','rondonópolis', 2020, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','rondonópolis', 2020, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','rondonópolis', 2020, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','rondonópolis', 2020, '2020-02-06 04:00:00', 24.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','rondonópolis', 2021, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','rondonópolis', 2021, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','rondonópolis', 2021, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','rondonópolis', 2021, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','rondonópolis', 2021, '2020-02-06 04:00:00', 24.07);
+
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','rondonópolis', 2019, '2020-02-01 00:00:00', 23.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','rondonópolis', 2019, '2020-02-02 01:00:00', 24.2);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','rondonópolis', 2019, '2020-02-04 02:00:00', 21.3);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','rondonópolis', 2019, '2020-02-05 03:00:00', 20.1);
+INSERT INTO temperaturas.temperaturas_por_cidade (regiao, estado, cidade, ano, data, valor) values ('centro-oeste', 'mato grosso','rondonópolis', 2019, '2020-02-06 04:00:00', 24.07);
